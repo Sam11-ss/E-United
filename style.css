@@ -1,0 +1,63 @@
+#home_label{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70px;
+    color:rgb(253, 243, 150);
+    font-weight: bold;
+    
+}
+#label_1{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: inherit;
+    font-size: 40px;
+}
+#home_para{
+    padding:20px;
+    border-style:solid;
+    border-color:rgb(112, 185, 253);
+    background-color:rgb(232, 241, 250);
+}
+#counsellors{
+    padding:20px;
+    border-style:solid;
+    border-color:rgb(112, 255, 155);
+    background-color:rgb(222, 255, 213);
+}
+#report{
+    padding:20px;
+    border-style:solid;
+    border-color:rgb(255, 118, 118);
+    background-color:rgb(252, 237, 237);
+}
+#home_paragraph{
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+}
+#counsel_1 , #counsel_2 , #label_2, #label_3{
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+}
+ 
+#counsel_2_img{
+    size: 60px;
+}
+.img-responsive{
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+#counsel_label{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: inherit;
+    font-size: 40px;
+}
+#report_label{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: inherit;
+    font-size: 40px;
+}
+#contact iframe {
+    width: 100%;
+}
